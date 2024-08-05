@@ -1,6 +1,6 @@
 ### Hi there 👋, Myself Hilal Ibrahim
-#### I am a Full Stack  & Mobile App Developer
-![I am a Full Stack  & Mobile App Developer](https://media.licdn.com/dms/image/D5616AQFzRjiDF3_WrA/profile-displaybackgroundimage-shrink_350_1400/0/1722859019534?e=1728518400&v=beta&t=czWCXEKeS077aVnDRoNlFbL3Mzht2SKSo8AJS4cPubg)
+#### I am a Full Stack & Mobile App Developer
+![I am a Full Stack & Mobile App Developer](https://media.licdn.com/dms/image/D5616AQFzRjiDF3_WrA/profile-displaybackgroundimage-shrink_350_1400/0/1722859019534?e=1728518400&v=beta&t=czWCXEKeS077aVnDRoNlFbL3Mzht2SKSo8AJS4cPubg)
 
 I'm an IT professional passionate about software development and continuous learning. I enjoy working on various projects, particularly in web development, data science, and mobile app development.
 
@@ -8,7 +8,7 @@ I'm an IT professional passionate about software development and continuous lear
 - 🌱 I’m currently learning Datascience and Machine learning 
 - 👯 I’m looking to collaborate on Interesting projects. 
 - 🤔 I’m looking for help with Learning new tech 
-- 💬 Ask me about Projects,Movies,Camera,Cricket,Football 
+- 💬 Ask me about Projects, Movies, Camera, Cricket, Football 
 - 📫 How to reach me: hilalkizhoor@gmail.com 
 
 ## 🔧 Technologies & Tools
@@ -53,15 +53,17 @@ I'm an IT professional passionate about software development and continuous lear
   </tr>
 </table>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hilalibrahim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/hilal-ibrahim-kr/)  
+## 📫 Connect with me
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hilalibrahim)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hilal-ibrahim-kr/)
+
+## 🏆 Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hilalibrahim)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 📊 GitHub Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilalibrahim)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hilalibrahim&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/hilalibrahim)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=hilalibrahim)  
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hilalibrahim&show_icons=true)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=hilalibrahim)
