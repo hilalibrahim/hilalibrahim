@@ -2,6 +2,8 @@
 #### I am a Full Stack & Mobile App Developer
 ![I am a Full Stack & Mobile App Developer](https://media.licdn.com/dms/image/D5616AQFzRjiDF3_WrA/profile-displaybackgroundimage-shrink_350_1400/0/1722859019534?e=1728518400&v=beta&t=czWCXEKeS077aVnDRoNlFbL3Mzht2SKSo8AJS4cPubg)
 
+<div style="background-color:#f0f0f0; padding: 10px;">
+
 I'm an IT professional passionate about software development and continuous learning. I enjoy working on various projects, particularly in web development, data science, and mobile app development.
 
 - 🔭 I’m currently working on POS -Desktop -APP 
@@ -67,3 +69,5 @@ I'm an IT professional passionate about software development and continuous lear
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilalibrahim)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hilalibrahim&show_icons=true)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hilalibrahim)
+
+</div>
