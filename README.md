@@ -17,38 +17,38 @@ I'm an IT professional passionate about software development and continuous lear
   <tr>
     <td><b>Languages:</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript" alt="JavaScript">
-      <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" alt="Python">
-      <img src="https://img.shields.io/badge/-R-333?style=flat&logo=r" alt="R">
-      <img src="https://img.shields.io/badge/-HTML-333?style=flat&logo=html5" alt="HTML">
-      <img src="https://img.shields.io/badge/-CSS-333?style=flat&logo=css3" alt="CSS">
+      <img src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" alt="R">
+      <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
+      <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
     </td>
   </tr>
   <tr>
     <td><b>Frameworks & Libraries:</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-React-333?style=flat&logo=react" alt="React">
-      <img src="https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js" alt="Vue.js">
-      <img src="https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js" alt="Node.js">
-      <img src="https://img.shields.io/badge/-Express-333?style=flat&logo=express" alt="Express">
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React">
+      <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js">
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" alt="Express">
     </td>
   </tr>
   <tr>
     <td><b>Databases:</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb" alt="MongoDB">
-      <img src="https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql" alt="PostgreSQL">
-      <img src="https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql" alt="MySQL">
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
     </td>
   </tr>
   <tr>
     <td><b>Tools & Platforms:</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-Git-333?style=flat&logo=git" alt="Git">
-      <img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github" alt="GitHub">
-      <img src="https://img.shields.io/badge/-GCP-333?style=flat&logo=google-cloud" alt="GCP">
-      <img src="https://img.shields.io/badge/-VS_Code-333?style=flat&logo=visual-studio-code" alt="VS Code">
-      <img src="https://img.shields.io/badge/-Power_BI-333?style=flat&logo=power-bi" alt="Power BI">
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP">
+      <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
+      <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=power-bi&logoColor=white" alt="Power BI">
     </td>
   </tr>
 </table>
