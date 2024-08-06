@@ -60,9 +60,7 @@ I'm an IT professional passionate about software development and continuous lear
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hilalibrahim)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hilal-ibrahim-kr/)
 
-## 🏆 Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hilalibrahim)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 
