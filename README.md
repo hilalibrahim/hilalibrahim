@@ -6,7 +6,7 @@
 
 I'm an IT professional passionate about software development and continuous learning. I enjoy working on various projects, particularly in web development, data science, and mobile app development.
 
-- 🔭 I’m currently working on POS -Desktop -APP 
+- 🔭 I’m currently working on Portfolio Projects 
 - 🌱 I’m currently learning Datascience and Machine learning 
 - 👯 I’m looking to collaborate on Interesting projects. 
 - 🤔 I’m looking for help with Learning new tech 
