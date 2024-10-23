@@ -1,5 +1,5 @@
 ### Hi there 👋, Myself Hilal Ibrahim
-#### I am a IT Graduate
+#### I am an IT Graduate
 
 
 <div style="background-color:#dcffdc; padding: 10px;">
