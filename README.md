@@ -1,6 +1,6 @@
 ### Hi there 👋, Myself Hilal Ibrahim
-#### I am a Full Stack & Mobile App Developer
-![I am a Full Stack & Mobile App Developer](https://media.licdn.com/dms/image/D5616AQFzRjiDF3_WrA/profile-displaybackgroundimage-shrink_350_1400/0/1722859019534?e=1728518400&v=beta&t=czWCXEKeS077aVnDRoNlFbL3Mzht2SKSo8AJS4cPubg)
+#### I am a IT Graduate
+
 
 <div style="background-color:#dcffdc; padding: 10px;">
 
