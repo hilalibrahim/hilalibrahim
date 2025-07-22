@@ -3,7 +3,7 @@
 ### **👋 HEY THERE, I'M HILAL IBRAHIM**  
 #### *IT Engineer | Full-Stack Dev | Tech Enthusiast*  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF00&width=600&lines=Building+the+future%2C+one+commit+at+a+time...;Exploring+AI%2C+Web3%2C+and+Cloud+Tech;Open+to+collaborate+on+innovative+projects!)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF00&width=600&lines=Building+the+future%2C+one+commit+at+a+time...;Exploring+AI%2C+Nextjs%2C+and+Cloud+Tech;Open+to+collaborate+on+innovative+projects!)](https://git.io/typing-svg)  
 
 </div>
 
@@ -39,7 +39,7 @@
 
 ### **🚀 CURRENTLY WORKING ON**  
 🔭 Building **AI-powered web apps**  
-🌱 Learning **Blockchain & Web3**  
+🌱 Learning **Nestjs**  
 🤝 Open to **collaborations** on open-source projects  
 
 ---
